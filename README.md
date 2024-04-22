@@ -63,10 +63,10 @@
 然后我们可以启动 anocado，或者在 cmd 键入 conda 查看是否安装成功。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713704761771-36e51754-6612-4204-aaa7-5f4719f03a24.png#averageHue=%23161413&clientId=u0b04c272-219e-4&from=paste&height=177&id=u5ebfb633&originHeight=243&originWidth=751&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=24981&status=done&style=none&taskId=ufae70dec-bef0-405a-b2de-d93d43cc933&title=&width=546.1818181818181)
 ## 2.3 安装 Jupyter
-在安装了 anocoda 之后 我们可以在 cmd 上输入如下的指令，利用 Anocoda 帮我们安装 Juypter notebook。
-`conda install jupyter notebook`
+在安装了 anocoda 之后 我们可以在 cmd 上输入如下的指令，利用 Anocoda 帮我们安装 Juypter notebook。  
+`conda install jupyter notebook`  
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702368228-27fe8a22-4309-43e0-98ce-714767f67990.png#averageHue=%23464545&clientId=u0b04c272-219e-4&from=paste&height=170&id=u4a11c63c&originHeight=234&originWidth=566&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=16768&status=done&style=none&taskId=u02d74460-d37f-4a0f-bc47-4984553ddfb&title=&width=411.6363636363636)
-安装完毕之后，可以在 cmd 输入 jupyter notebook 或者在 Anocoda 上点击对应图标的 lauch。
+  安装完毕之后，可以在 cmd 输入 jupyter notebook 或者在 Anocoda 上点击对应图标的 lauch。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702406849-d31daec8-d6d4-415a-9216-709b75ef15b7.png#averageHue=%23211d1a&clientId=u0b04c272-219e-4&from=paste&height=359&id=u9efeaed9&originHeight=493&originWidth=1101&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=115523&status=done&style=none&taskId=u9d7af86e-de78-4ae1-8bd7-ad3a0e12225&title=&width=800.7272727272727)
 最后会以浏览器窗口的形式进入。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702420056-d47cdb0d-9667-49db-a15a-5bc1fcf99f2f.png#averageHue=%23f9f8f8&clientId=u0b04c272-219e-4&from=paste&height=672&id=u610aa34a&originHeight=924&originWidth=1903&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=71267&status=done&style=none&taskId=u815960e9-120f-4e49-9911-d738b219a38&title=&width=1384)
