@@ -86,7 +86,7 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713703827320-79a93447-bca0-43d9-9667-6499476dc3be.png#averageHue=%23fbfaf9&clientId=u0b04c272-219e-4&from=paste&height=567&id=ub97926b6&originHeight=780&originWidth=1445&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=139698&status=done&style=none&taskId=uf84945cb-7f78-42e5-9d42-03db6cb83d2&title=&width=1050.909090909091)
 最后，我们可以创建一个扩展名为 ipynb 的文件，写一些简单的代码进行测试。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713703902976-629872eb-55c9-4aea-b3e7-61b2ad5e1628.png#averageHue=%23f7f6f6&clientId=u0b04c272-219e-4&from=paste&height=344&id=udd656f67&originHeight=473&originWidth=1139&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=56373&status=done&style=none&taskId=u696a8c09-be61-4571-9c9a-32332dfb76c&title=&width=828.3636363636364)
-同时，为了实现 Anocoda 和 VScode 的联动（也可以与 PyCharm），我们可以在 Anocoda 的 preference 将本机vscode 的启动地址填入。
+同时，为了实现 Anocoda 和 VScode 的联动（也可以与 PyCharm），我们可以在 Anocoda 的 preference 将本机vscode 的启动地址填入。  
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713774133560-9a57b720-29e1-4e8f-be88-34b7875ec8f0.png#averageHue=%23f1ecec&clientId=u651b4258-5252-4&from=paste&height=436&id=u11e4874a&originHeight=600&originWidth=615&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=32404&status=done&style=none&taskId=u980dd3bd-ad41-469e-8abf-7054afd4fe0&title=&width=447.27272727272725)
 ## 2.4 安装 Python
 由于本机之前有且只有 python 3.11 一个 python 解释器，因此在安装 Anocoda 的时候需要将该 python 解释器作为默认的解释器，如下图所示：
