@@ -53,13 +53,13 @@
 在个人的邮箱内点击地址进行下载。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713701928403-4ddc36a1-b4c7-4597-87da-2c46b83fa77d.png#averageHue=%23faf9f8&clientId=u0b04c272-219e-4&from=paste&height=319&id=u0690226c&originHeight=439&originWidth=555&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=29584&status=done&style=none&taskId=u54736d55-8a4e-422f-b1a6-0f83d1c4357&title=&width=403.6363636363636)
 下载完毕之后，启动程序。
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713701960115-b9e1f3a1-5fbd-4c9e-b7f7-cbe4493f8b14.png#averageHue=%23f9f7f6&clientId=u0b04c272-219e-4&from=paste&height=554&id=u8f3198dc&originHeight=762&originWidth=986&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=275896&status=done&style=none&taskId=ub1c66da3-2065-4960-bba9-4a6861c4b51&title=&width=717.0909090909091)
-选择安装路径。
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713701960115-b9e1f3a1-5fbd-4c9e-b7f7-cbe4493f8b14.png#averageHue=%23f9f7f6&clientId=u0b04c272-219e-4&from=paste&height=554&id=u8f3198dc&originHeight=762&originWidth=986&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=275896&status=done&style=none&taskId=ub1c66da3-2065-4960-bba9-4a6861c4b51&title=&width=717.0909090909091)  
+选择安装路径。  
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702041878-ed75f8c8-3aff-4636-9417-297ad2d86ff6.png#averageHue=%23ececec&clientId=u0b04c272-219e-4&from=paste&height=399&id=ube9da551&originHeight=548&originWidth=711&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=78266&status=done&style=none&taskId=uda6255d2-07a9-479d-bc3e-6aae5e2de7e&title=&width=517.0909090909091)
 这边会检查机子是否已经有python解释器，如果有请务必勾选。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702113993-433d2e56-0674-49e6-9295-001461c9128e.png#averageHue=%23e7e7e7&clientId=u0b04c272-219e-4&from=paste&height=393&id=u765fe10e&originHeight=540&originWidth=702&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=99051&status=done&style=none&taskId=u85c1e431-1922-4f3d-88df-7dfd6e37450&title=&width=510.54545454545456)
 最后等待安装，图为安装完毕时候的界面。
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702196998-e59c791a-578a-4b4d-9323-e9a88a8a7236.png#averageHue=%23f5f5f5&clientId=u0b04c272-219e-4&from=paste&height=401&id=u030c8d58&originHeight=552&originWidth=704&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=86561&status=done&style=none&taskId=u146ca6d3-fcd2-4c55-ae4e-b33dc1913ed&title=&width=512)
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702196998-e59c791a-578a-4b4d-9323-e9a88a8a7236.png#averageHue=%23f5f5f5&clientId=u0b04c272-219e-4&from=paste&height=401&id=u030c8d58&originHeight=552&originWidth=704&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=86561&status=done&style=none&taskId=u146ca6d3-fcd2-4c55-ae4e-b33dc1913ed&title=&width=512)  
 然后我们可以启动 anocado，或者在 cmd 键入 conda 查看是否安装成功。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713704761771-36e51754-6612-4204-aaa7-5f4719f03a24.png#averageHue=%23161413&clientId=u0b04c272-219e-4&from=paste&height=177&id=u5ebfb633&originHeight=243&originWidth=751&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=24981&status=done&style=none&taskId=ufae70dec-bef0-405a-b2de-d93d43cc933&title=&width=546.1818181818181)
 ## 2.3 安装 Jupyter
