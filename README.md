@@ -65,7 +65,7 @@
 ## 2.3 安装 Jupyter
 在安装了 anocoda 之后 我们可以在 cmd 上输入如下的指令，利用 Anocoda 帮我们安装 Juypter notebook。  
 `conda install jupyter notebook`  
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702368228-27fe8a22-4309-43e0-98ce-714767f67990.png#averageHue=%23464545&clientId=u0b04c272-219e-4&from=paste&height=170&id=u4a11c63c&originHeight=234&originWidth=566&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=16768&status=done&style=none&taskId=u02d74460-d37f-4a0f-bc47-4984553ddfb&title=&width=411.6363636363636)
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702368228-27fe8a22-4309-43e0-98ce-714767f67990.png#averageHue=%23464545&clientId=u0b04c272-219e-4&from=paste&height=170&id=u4a11c63c&originHeight=234&originWidth=566&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=16768&status=done&style=none&taskId=u02d74460-d37f-4a0f-bc47-4984553ddfb&title=&width=411.6363636363636)  
   安装完毕之后，可以在 cmd 输入 jupyter notebook 或者在 Anocoda 上点击对应图标的 lauch。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38674938/1713702406849-d31daec8-d6d4-415a-9216-709b75ef15b7.png#averageHue=%23211d1a&clientId=u0b04c272-219e-4&from=paste&height=359&id=u9efeaed9&originHeight=493&originWidth=1101&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=115523&status=done&style=none&taskId=u9d7af86e-de78-4ae1-8bd7-ad3a0e12225&title=&width=800.7272727272727)
 最后会以浏览器窗口的形式进入。
