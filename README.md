@@ -1,5 +1,8 @@
 # 1 实验内容
-安装本课程所需的软件包括 Android Studio 、Anocoda、python等
+- 安装Android Studio 4.1之上的版本，更好的支持TensorFlowLite
+- 安装JupyterNotebook和相关的Python环境，后续用于机器学习模型构建。
+- 安装VisualStudioCode代码编辑器
+- 探索上述软件的使用，将安装过程以Markdown语法描述，并上传至Github(或Gitee)
 # 2 环境安装
 ## 2.1 安装 Android Studio
 直接进入官网进行选择合适的版本进行下载。
